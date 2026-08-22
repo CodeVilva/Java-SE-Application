@@ -1,9 +1,7 @@
 package com.vilva.securefilecrypt;
 
 import java.security.NoSuchAlgorithmException;
-import java.util.Arrays;
 import java.util.Scanner;
-import javax.crypto.SecretKey;
 
 public class Main {
 
